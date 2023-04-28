@@ -1,0 +1,21 @@
+[{
+  "name": "You can download music",
+  "sku": "001",
+  "price": "150",
+  "currency": "USD",
+  "quantity": 1
+},
+{
+"name": "You can listen to limited tracks",
+"sku": "002",
+"price": "150",
+"currency": "USD",
+"quantity": 1
+},
+{
+  "name": "Your rights will not be limited",
+  "sku": "003",
+  "price": "150",
+  "currency": "USD",
+  "quantity": 1
+}]
